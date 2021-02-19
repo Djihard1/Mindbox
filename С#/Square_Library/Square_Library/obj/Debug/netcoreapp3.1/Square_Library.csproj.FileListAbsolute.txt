@@ -1,0 +1,9 @@
+Q:\Mindbox\С#\Square_Library\Square_Library\bin\Debug\netcoreapp3.1\Square_Library.deps.json
+Q:\Mindbox\С#\Square_Library\Square_Library\bin\Debug\netcoreapp3.1\Square_Library.dll
+Q:\Mindbox\С#\Square_Library\Square_Library\bin\Debug\netcoreapp3.1\Square_Library.pdb
+Q:\Mindbox\С#\Square_Library\Square_Library\obj\Debug\netcoreapp3.1\Square_Library.csprojAssemblyReference.cache
+Q:\Mindbox\С#\Square_Library\Square_Library\obj\Debug\netcoreapp3.1\Square_Library.csproj.CoreCompileInputs.cache
+Q:\Mindbox\С#\Square_Library\Square_Library\obj\Debug\netcoreapp3.1\Square_Library.AssemblyInfoInputs.cache
+Q:\Mindbox\С#\Square_Library\Square_Library\obj\Debug\netcoreapp3.1\Square_Library.AssemblyInfo.cs
+Q:\Mindbox\С#\Square_Library\Square_Library\obj\Debug\netcoreapp3.1\Square_Library.dll
+Q:\Mindbox\С#\Square_Library\Square_Library\obj\Debug\netcoreapp3.1\Square_Library.pdb

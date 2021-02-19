@@ -1,0 +1,27 @@
+use [TMP]
+INSERT INTO ProductCategory (ID,Category ) VALUES  (1, 'Cat1')
+INSERT INTO ProductCategory (ID,Category ) VALUES  (2, 'Cat2')
+INSERT INTO ProductCategory (ID,Category ) VALUES  (3, 'Cat3')
+INSERT INTO ProductCategory (ID,Category ) VALUES  (4, 'Cat4')
+INSERT INTO ProductCategory (ID,Category ) VALUES  (5, 'Cat5')
+INSERT INTO ProductCategory (ID,Category ) VALUES  (6, 'Cat6')
+INSERT INTO ProductCategory (ID,Category ) VALUES  (7, 'Cat7')
+
+INSERT INTO Products (ID,Code,Name, price, CategoryID ) VALUES  (1, 'code1', 'Product1', 1, 1)
+INSERT INTO Products (ID,Code,Name, price, CategoryID ) VALUES  (2, 'code2', 'Product2', 1, 2)
+INSERT INTO Products (ID,Code,Name, price, CategoryID ) VALUES  (3, 'code3', 'Product3', 1, 2)
+INSERT INTO Products (ID,Code,Name, price, CategoryID ) VALUES  (4, 'code4', 'Product4', 1, 3)
+INSERT INTO Products (ID,Code,Name, price, CategoryID ) VALUES  (5, 'code5', 'Product5', 1, 4)
+INSERT INTO Products (ID,Code,Name, price, CategoryID ) VALUES  (6, 'code6', 'Product6', 1, null)
+INSERT INTO Products (ID,Code,Name, price, CategoryID ) VALUES  (7, 'code7', 'Product7', 1, null)
+INSERT INTO Products (ID,Code,Name, price, CategoryID ) VALUES  (8, 'code8', 'Product8', 1, 5)
+INSERT INTO Products (ID,Code,Name, price, CategoryID ) VALUES  (9, 'code9', 'Product9', 1, 6)
+INSERT INTO Products (ID,Code,Name, price, CategoryID ) VALUES  (10, 'code10', 'Product10', 1, 7)
+INSERT INTO Products (ID,Code,Name, price, CategoryID ) VALUES  (11, 'code11', 'Product11', 1, 3)
+INSERT INTO Products (ID,Code,Name, price, CategoryID ) VALUES  (12, 'code12', 'Product12', 1, 4)
+INSERT INTO Products (ID,Code,Name, price, CategoryID ) VALUES  (13, 'code13', 'Product13', 1, null)
+INSERT INTO Products (ID,Code,Name, price, CategoryID ) VALUES  (14, 'code14', 'Product14', 1, 4)
+INSERT INTO Products (ID,Code,Name, price, CategoryID ) VALUES  (15, 'code15', 'Product15', 1, 5)
+INSERT INTO Products (ID,Code,Name, price, CategoryID ) VALUES  (16, 'code16', 'Product116', 1, 6)
+
+
